@@ -1,0 +1,14 @@
+﻿        #region Class Parameters
+        #endregion
+
+        #region Class Constructors
+        #endregion
+
+        #region Class Properties
+        #endregion
+
+        #region Class Operators
+        #endregion
+
+        #region Class Methods
+        #endregion
